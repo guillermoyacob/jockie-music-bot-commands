@@ -6,9 +6,10 @@
 ## 🇪🇸 Versión en Español
 
 ### 🎶 Reproducción y Búsqueda
-- `m!p [nombre]` ➔ Busca y añade al final de la fila.
+- `m!play [nombre]` | `m!p [nombre]` ➔ Busca y añade al final de la fila.
 - `m!search [nombre]` ➔ Muestra opciones de búsqueda.
 - `m!p [link]` ➔ Reproduce desde YouTube (soporta playlists).
+- `m!shuffle` ➔ Reproduce las canciones en aleatorio.
 - `m!insert [nombre/link]` ➔ Añade la canción **inmediatamente después** de la actual.
 
 ### 🛠️ Gestión de la Lista (Queue)
@@ -23,17 +24,17 @@
 - `m!playing` ➔ Info de lo que suena ahora.
 - `m!repeat` ➔ Activa/Desactiva bucle.
 - `m!pause` ➔ Pausa o reanuda.
-- `m!stop` ➔ Detiene todo.
-- `m!leave` ➔ Desconecta al bot :C
+- `m!stop` | `m!leave` ➔ Desconecta al bot :C
 
 ---
 
 ## 🇺🇸 English Version
 
 ### 🎶 Playback & Search
-- `m!p [name]` ➔ Search and add to the end of the queue.
+- `m!play [name]` | `m!p [name]` ➔ Search and add to the end of the queue.
 - `m!search [name]` ➔ Search and return several options.
 - `m!p [link]` ➔ Play from YouTube (supports playlists).
+- `m!shuffle` ➔ It plays songs in random order.
 - `m!insert [name/link]` ➔ Add song **immediately after** the current one.
 
 ### 🛠️ Queue Management
@@ -48,8 +49,7 @@
 - `m!playing` ➔ Show current song info.
 - `m!repeat` ➔ Toggle repeat on/off.
 - `m!pause` ➔ Pause/unpause playback.
-- `m!stop` ➔ Stop everything.
-- `m!leave` ➔ Kick the bot from the channel :C
+- `m!stop` | `m!leave` ➔ Kick the bot from the channel :C
 
 ---
-> *Collection made by Guiye 🇦🇷*
+> *Command Selection by Guiye 🇦🇷*
